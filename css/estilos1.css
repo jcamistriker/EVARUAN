@@ -49,16 +49,13 @@ body {
 	background-attachment: fixed;
 }
 
-header{
-	margin-bottom: 50%;
-}
-
 .cabecera {
 	background-color:rgb(255, 255, 255);
 }
 
 .contenido {
 		background-color: rgb(255, 255, 255)
+
 }
 
 p {
@@ -74,7 +71,11 @@ h1 {
 }
 
 video {
-
 	border:3px solid;
 	box-shadow: 0 10px 20px 0 black;
+}
+
+.parrafo {
+	margin: 40px;
+	text-align: center;
 }
