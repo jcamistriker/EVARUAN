@@ -60,3 +60,20 @@ header{
 .contenido {
 		background-color: rgb(255, 255, 255)
 }
+
+p {
+	width: 25%;
+	font: 20px sans-serif;
+	color: rgb(15, 171, 68)
+	
+}
+
+h1 {
+	font: 35px sans-serif;
+
+}
+
+video {
+	border:3px solid;
+	box-shadow: 0 10px 20px 0 black;
+}
