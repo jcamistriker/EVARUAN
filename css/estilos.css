@@ -62,15 +62,15 @@ header{
 }
 
 p {
-	width: 25%;
+	width: 600px;
 	font: 20px sans-serif;
-	color: rgb(15, 171, 68)
-	
+	font-size: 25px;
+	color: rgb(82, 163, 80);
+	font-weight: bold;
 }
 
 h1 {
-	font: 35px sans-serif;
-
+	font-size: 50px;
 }
 
 video {
