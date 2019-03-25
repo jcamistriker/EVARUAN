@@ -88,3 +88,7 @@ video {
 .plato {
 	display: inline-flex;
 }
+
+.plato img {
+	margin: 20px;
+}
