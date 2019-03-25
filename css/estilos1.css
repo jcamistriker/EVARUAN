@@ -93,3 +93,15 @@ video {
 	margin: 20px;
 	box-shadow: 0 3px 10px 0 black;
 }
+
+.redes {
+	margin-top: 50px;
+	background-color: rgb(82, 163, 80);
+	width: 100%;
+	height: 30px:
+}
+
+.redes a img {
+	margin-top: 5px;
+	margin-right: 10px;
+}

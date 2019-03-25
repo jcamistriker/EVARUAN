@@ -88,6 +88,10 @@ video {
 	margin-top: 50px;
 	background-color: rgb(82, 163, 80);
 	width: 100%;
-	height: 25px:
+	height: 30px:
+}
 
+.redes a img {
+	margin-top: 5px;
+	margin-right: 10px;
 }
