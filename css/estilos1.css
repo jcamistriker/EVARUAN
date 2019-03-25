@@ -91,4 +91,5 @@ video {
 
 .plato img {
 	margin: 20px;
+	box-shadow: 0 3px 10px 0 black;
 }
