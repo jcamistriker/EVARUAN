@@ -113,6 +113,7 @@ form {
 	margin: 10px;
 	padding: 20px;
 	color: white;
+	box-shadow: 0 10px 20px 0 black;
 }
 
 label {
@@ -150,4 +151,10 @@ input[type="submit"]:hover {
 	background: #646464;
 	color: white;
 	cursor: pointer;
+}
+
+.mapa {
+	border: solid 1px;
+	width: 600px;
+	height: 450px;
 }
